@@ -4,6 +4,6 @@
     <title>Hello Jenkins</title>
 </head>
 <body>
-<h1>Hello Jenkins! Hello!</h1>
+<h1>Hello Jenkins!</h1>
 </body>
 </html>
